@@ -5,7 +5,7 @@ The official python wrapper for the Basler pylon Camera Software Suite.
 This project is offered with no technical support by Basler AG.
 You are welcome to post any questions or issues on [GitHub](https://github.com/basler/pypylon) or on [ImagingHub](https://www.imaginghub.com).
 
-[![Build Status](https://travis-ci.org/basler/pypylon.svg?branch=master)](https://travis-ci.org/basler/pypylon)
+[![Build Status](https://travis-ci.com/basler/pypylon.svg?branch=master)](https://travis-ci.com/basler/pypylon)
 [![Build status](https://ci.appveyor.com/api/projects/status/45j4tydwdr0fv05p/branch/master?svg=true)](https://ci.appveyor.com/project/basler-oss/pypylon/branch/master)
 
 # For the Impatient
